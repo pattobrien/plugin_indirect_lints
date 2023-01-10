@@ -1,0 +1,5 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  plugins:
+    - plugin_indirect_lints
